@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032212660557",
+    "project_id": "entervue-mq3rqn",
+    "storage_bucket": "entervue-mq3rqn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032212660557:android:a5d6a4a71d10103d787704",
+        "android_client_info": {
+          "package_name": "kz.entervue.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPeIhROrjxd3r31IGg6VjdgGNqx3lGjtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
